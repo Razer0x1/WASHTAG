@@ -11,3 +11,4 @@
 - 2026-02-09T14:17:41 - kept this log as a daily work tracker
 - 2026-02-10T20:03:46 - went through feedback notes and to-dos
 - 2026-02-11T15:25:44 - went through feedback notes and to-dos
+- 2026-02-12T16:24:15 - noted down ideas for the booking flow
