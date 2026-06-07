@@ -123,3 +123,4 @@
 - 2026-06-01T11:24:19 - checked open items and updated plan
 - 2026-06-02T09:19:02 - reviewed upcoming work and progress notes
 - 2026-06-03T09:00:01 - reviewed upcoming work and progress notes
+- 2026-06-04T13:04:05 - noted down ideas for the booking flow
