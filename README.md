@@ -148,6 +148,15 @@ Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for detai
 
 ---
 
+## 🧯 Blue Zone First Aid (Troubleshooting)
+
+- **Apache won't start?** Another service (usually Skype/IIS) is squatting on port `80` — edit `httpd.conf` (`Listen 80`) or stop the squatter.
+- **Database errors on first run?** Import `database.sql` *before* opening the app, and match `config.php` credentials to your MySQL user.
+- **Blank pages / white screens?** Enable `display_errors` in `php.ini` while developing; then check the `logs/apache` folder.
+- **Styles look unstyled?** The SCSS must be compiled to CSS once (`npm run scss` or your editor plugin) before serving.
+
+---
+
 > 🧺 *As the plane passes over Pochinki, someone is still folding shirts in the
 > blue zone. Deploy early. Book early. Dinner belongs to the laundromat squad.*
 
